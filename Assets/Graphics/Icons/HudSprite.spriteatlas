@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: HudSprite
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 8
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 21300000, guid: bfa93c4e9b747c1889fafb5e9b44ed68, type: 3}
+    - {fileID: 21300000, guid: 5f616713a156faad89b5d0f20a67696a, type: 3}
+    - {fileID: 21300000, guid: 2a0ccbe24d171f3f0bc52f7197e940f9, type: 3}
+    - {fileID: 21300000, guid: ca4a9e1dabe9d159da894bc66bf29d7a, type: 3}
+    - {fileID: 21300000, guid: bd2023e7b287375c2bcc8add2f0a729a, type: 3}
+    - {fileID: 21300000, guid: be4e5775000427f228c82eaa1b83ea11, type: 3}
+    - {fileID: 21300000, guid: 3d4d409e3bbfbc454b9e1faeb2f2afa8, type: 3}
+    - {fileID: 21300000, guid: d5711f12d398ce8b3b8896f0e94ebfd8, type: 3}
+    - {fileID: 21300000, guid: be0d795498daa8e45a7555b2356ad807, type: 3}
+    - {fileID: 21300000, guid: bd80994570202ee73ab05e3360993b53, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: d5711f12d398ce8b3b8896f0e94ebfd8, type: 3}
+  - {fileID: 21300000, guid: 2a0ccbe24d171f3f0bc52f7197e940f9, type: 3}
+  - {fileID: 21300000, guid: 5f616713a156faad89b5d0f20a67696a, type: 3}
+  - {fileID: 21300000, guid: be0d795498daa8e45a7555b2356ad807, type: 3}
+  - {fileID: 21300000, guid: bd80994570202ee73ab05e3360993b53, type: 3}
+  - {fileID: 21300000, guid: be4e5775000427f228c82eaa1b83ea11, type: 3}
+  - {fileID: 21300000, guid: bd2023e7b287375c2bcc8add2f0a729a, type: 3}
+  - {fileID: 21300000, guid: ca4a9e1dabe9d159da894bc66bf29d7a, type: 3}
+  - {fileID: 21300000, guid: bfa93c4e9b747c1889fafb5e9b44ed68, type: 3}
+  - {fileID: 21300000, guid: 3d4d409e3bbfbc454b9e1faeb2f2afa8, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - menu
+  - change
+  - bullet
+  - reload
+  - shooter
+  - interact
+  - health
+  - close
+  - armor
+  - inventory
+  m_RenderDataMap: {}
+  m_Tag: HudSprite
+  m_IsVariant: 0

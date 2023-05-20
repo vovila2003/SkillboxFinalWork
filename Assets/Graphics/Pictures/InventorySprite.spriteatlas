@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: InventorySprite
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 8
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 27ba4e791ac5a84b4b24f5b3efe50b1c, type: 3}
+    - {fileID: 2800000, guid: c122bb39c3a51209a90f53bce4510e49, type: 3}
+    - {fileID: 2800000, guid: d2ac14ebb55efa126937ef9e1ea92c59, type: 3}
+    - {fileID: 2800000, guid: 8cdcd8a857fb338b79fbd4606a96d4cd, type: 3}
+    - {fileID: 2800000, guid: a6c1a483104c7ad15a5797675922ec1c, type: 3}
+    - {fileID: 2800000, guid: a8fdf09a6618baa8b8912c73c2f48a78, type: 3}
+    - {fileID: 2800000, guid: cd32c805a183af68f8561d1a67f85c46, type: 3}
+    - {fileID: 2800000, guid: bb6e542d2b084bbcaa62a00fe92e5243, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: a6c1a483104c7ad15a5797675922ec1c, type: 3}
+  - {fileID: 21300000, guid: cd32c805a183af68f8561d1a67f85c46, type: 3}
+  - {fileID: 21300000, guid: 8cdcd8a857fb338b79fbd4606a96d4cd, type: 3}
+  - {fileID: 21300000, guid: c122bb39c3a51209a90f53bce4510e49, type: 3}
+  - {fileID: 21300000, guid: 27ba4e791ac5a84b4b24f5b3efe50b1c, type: 3}
+  - {fileID: 21300000, guid: a8fdf09a6618baa8b8912c73c2f48a78, type: 3}
+  - {fileID: 21300000, guid: d2ac14ebb55efa126937ef9e1ea92c59, type: 3}
+  - {fileID: 21300000, guid: bb6e542d2b084bbcaa62a00fe92e5243, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - MachineGun
+  - Pistol
+  - Knife
+  - Bullets
+  - armor
+  - Medic
+  - GunBullets
+  - PistolBullets
+  m_RenderDataMap: {}
+  m_Tag: InventorySprite
+  m_IsVariant: 0
